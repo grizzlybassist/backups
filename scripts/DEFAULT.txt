@@ -1,0 +1,22 @@
+#!/bin/sh
+SHELL=/bin/sh
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+localname=`hostname`
+unraid="/mnt/unraid"
+backups="$unraid/Cronjobs/backups"
+vmback="$backups/vmback"
+archive="/mnt/backups"
+
+now=$(date +"%Y-%m-%d")
+month=$(date +"%Y-%m")
+year=$(date +"%Y")
+bulogs="$backups/logs"
+vmlogs="$vmback/logs"
+mkdir -p $bulogs
+mkdir -p $vmlogs
+
+exec 1>> $bulogs/sys-$month.log
+exec 2>> $bulogs/sys-$month.log
+
+config="$backups/config/$localname-NAME.cfg"
+echo "$(date) $localname ACTIVITY"
