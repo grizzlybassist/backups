@@ -1,0 +1,520 @@
+-----------------------------start------------------------------
+Tue May 12 02:00:02 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.02
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 02:03:12 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-11.23': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.02 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 02:04:26 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 02:26:13 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 02:26:55 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 02:27:11 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 02:37:15 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 02:37:24 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 02:37:26 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 02:37:28 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 02:37:29 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 07:00:02 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.07
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 07:04:56 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.02': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.07 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 07:06:33 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 07:06:33 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 07:06:37 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 07:06:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 07:13:46 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 07:13:50 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 07:13:50 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 07:13:51 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 07:13:51 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 09:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.09
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 09:02:53 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.07': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.09 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 09:03:43 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 09:03:43 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 09:03:50 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 09:04:03 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 09:09:56 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 09:10:00 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 09:10:00 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 09:10:00 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 09:10:01 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 10:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.10
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 10:03:52 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.09': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.10 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 10:05:09 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 10:05:09 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 10:26:35 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 10:26:50 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 10:35:41 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 10:35:46 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 10:35:47 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 10:35:48 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 10:35:49 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 11:00:02 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.11
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 11:03:37 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.10': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.11 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 11:04:45 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 11:04:45 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 11:07:26 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 11:07:41 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 11:14:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 11:14:57 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 11:14:57 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 11:14:58 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 11:14:58 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 12:00:02 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.12
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 12:02:55 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.11': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.12 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 12:04:06 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 12:04:06 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 12:07:58 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 12:08:12 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 12:15:18 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 12:15:24 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 12:15:24 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 12:15:25 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 12:15:26 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 13:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.13
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 13:02:39 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.12': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.13 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 13:03:50 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 13:03:51 CDT 2020 with code of 0
+----------------------------------------------------------------
+file has vanished: "/mnt/user/Downloads/YouTube/logs/watchlater.tmp.log"
+rsync warning: some files vanished before they could be transferred (code 24) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Tue May 12 13:30:26 CDT 2020 with code of 24
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 13:30:42 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 13:38:25 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 13:38:31 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 13:38:32 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 13:38:33 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 13:38:34 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 14:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.14
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 14:04:04 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.13': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.14 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 14:05:38 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 14:05:38 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 14:05:41 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 14:05:53 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 14:11:40 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 14:11:43 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 14:11:44 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 14:11:44 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 14:11:45 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 15:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.15
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 15:01:55 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.14': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.15 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 15:02:44 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 15:02:44 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 15:02:47 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 15:02:59 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 15:08:45 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 15:08:49 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 15:08:49 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 15:08:49 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 15:08:50 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 16:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.16
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 16:02:35 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.15': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.16 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 16:03:24 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 16:03:25 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 16:03:27 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 16:03:39 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 16:09:30 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 16:09:33 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 16:09:34 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 16:09:34 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 16:09:34 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 17:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.17
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 17:02:40 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.16': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.17 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 17:03:29 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 17:03:29 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 17:03:31 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 17:03:44 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 17:09:34 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 17:09:37 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 17:09:37 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 17:09:37 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 17:09:38 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 18:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.18
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 18:02:16 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.17': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.18 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 18:03:04 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 18:03:05 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 18:03:07 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 18:03:20 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 18:09:07 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 18:09:11 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 18:09:11 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 18:09:11 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 18:09:12 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 19:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.19
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 19:02:03 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.18': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.19 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 19:02:51 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 19:02:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 19:02:54 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 19:03:06 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 19:08:50 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 19:08:54 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 19:08:54 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 19:08:54 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 19:08:55 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Tue May 12 23:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-12.23
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Tue May 12 23:02:29 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-12.19': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-12.23 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Tue May 12 23:03:28 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Tue May 12 23:03:29 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Tue May 12 23:03:41 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Tue May 12 23:03:56 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Tue May 12 23:10:42 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Tue May 12 23:10:48 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Tue May 12 23:10:48 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Tue May 12 23:10:49 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Tue May 12 23:10:50 CDT 2020 with code of 0
+------------------------------done------------------------------

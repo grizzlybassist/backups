@@ -1,0 +1,578 @@
+-----------------------------start------------------------------
+Sat May 23 02:00:12 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.02
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 02:04:19 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-22.23': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.02 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 02:06:51 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 03:03:43 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 03:04:19 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 03:04:47 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 03:15:42 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 03:15:55 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 03:15:57 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 03:15:58 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 03:16:01 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 07:00:02 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.07
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 07:04:49 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.02': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.07 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 07:06:31 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 07:06:32 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 07:06:40 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 07:06:57 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 07:13:56 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 07:14:03 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 07:14:03 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 07:14:03 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 07:14:04 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 09:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.09
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 09:02:59 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.07': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.09 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 09:03:48 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 09:03:48 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 09:03:50 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 09:04:02 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 09:09:41 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 09:09:44 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 09:09:44 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 09:09:45 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 09:09:45 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 10:00:02 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.10
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 10:02:04 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.09': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.10 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 10:02:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 10:02:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 10:02:55 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 10:03:07 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 10:08:49 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 10:08:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 10:08:53 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 10:08:53 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 10:08:53 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 11:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.11
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 11:02:46 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.10': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.11 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 11:03:35 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 11:03:35 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 11:03:48 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 11:04:01 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 11:10:01 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 11:10:14 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 11:10:15 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 11:10:15 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 11:10:16 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 12:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.12
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 12:02:54 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.11': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.12 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 12:04:11 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 12:04:12 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 12:10:02 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 12:10:17 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 12:17:22 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 12:17:28 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 12:17:29 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 12:17:29 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 12:17:30 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 13:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.13
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 13:03:03 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.12': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.13 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 13:04:09 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 13:04:10 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 13:07:37 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 13:07:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 13:14:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 13:14:58 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 13:14:58 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 13:14:59 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 13:15:00 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 14:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.14
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 14:02:53 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.13': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.14 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 14:04:17 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 14:04:18 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+file has vanished: "/mnt/user/Downloads/YouTube/videos/twitch/Northernlion/20200521-Team_Unity_Tuesday_-_Warzone_Episode_9.mp4.part-Frag269.part"
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 14:05:59 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 14:06:13 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 14:13:00 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 14:13:04 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 14:13:05 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 14:13:05 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 14:13:06 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 15:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.15
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 15:03:24 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.14': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.15 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 15:04:30 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 15:04:30 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+file has vanished: "/mnt/user/Downloads/YouTube/videos/twitch/DumbDog/20200519-Unity_and_stuff.mp4.part-Frag154"
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 15:11:33 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 15:11:49 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 15:19:04 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 15:19:10 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 15:19:11 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 15:19:12 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 15:19:13 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 16:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.16
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 16:04:05 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.15': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.16 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 16:05:45 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 16:05:45 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 16:12:13 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 16:12:31 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 16:19:49 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 16:19:55 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 16:19:56 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 16:19:56 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 16:19:57 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 17:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.17
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 17:04:09 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.16': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.17 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 17:05:35 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 17:05:35 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+file has vanished: "/mnt/user/Downloads/YouTube/videos/twitch/DumbDog/20200519-Unity_and_stuff.mp4.part-Frag1127"
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 17:19:20 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 17:19:37 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 17:26:55 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 17:27:03 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 17:27:03 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 17:27:04 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 17:27:05 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 18:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.18
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 18:03:58 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.17': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.18 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 18:05:32 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 18:05:32 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+file has vanished: "/mnt/user/Downloads/YouTube/videos/twitch/DumbDog/20200519-Unity_and_stuff.mp4.part-Frag2293"
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 18:27:29 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 18:28:12 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 18:35:36 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 18:35:41 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 18:35:42 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 18:35:43 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 18:35:44 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 19:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.19
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 19:04:14 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.18': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.19 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 19:05:46 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 19:05:46 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 19:32:53 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 19:33:23 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 19:40:39 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 19:40:47 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 19:40:48 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 19:40:48 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 19:40:49 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Sat May 23 23:00:02 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-23.23
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Sat May 23 23:04:34 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-23.19': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-23.23 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Sat May 23 23:06:14 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Sat May 23 23:06:15 CDT 2020 with code of 0
+----------------------------------------------------------------
+IO error encountered -- skipping file deletion
+rsync: readdir("/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08"): Structure needs cleaning (117)
+rsync: recv_generator: failed to stat "/mnt/user/backups/KILE-NAS1/sync/Downloads/Series/Psych/Season 08/Psych - S08E05 - COG Blocked.nfo": Structure needs cleaning (117)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Sat May 23 23:15:27 CDT 2020 with code of 23
+----------------------------------------------------------------
+Rsync completed on Emulation at Sat May 23 23:15:43 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Sat May 23 23:22:45 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Sat May 23 23:22:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Sat May 23 23:22:52 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Sat May 23 23:22:53 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Sat May 23 23:22:54 CDT 2020 with code of 0
+------------------------------done------------------------------

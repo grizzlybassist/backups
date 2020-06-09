@@ -1,0 +1,437 @@
+-----------------------------start------------------------------
+Mon May 11 12:00:01 CDT 2020 kile-deb2 rsync backup
+Sync in progress
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Mon May 11 13:00:01 CDT 2020 kile-deb2 rsync backup
+Sync in progress
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Mon May 11 14:00:02 CDT 2020 kile-deb2 rsync backup
+Sync in progress
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Mon May 11 15:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-11.15
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Mon May 11 15:05:06 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-09.12': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-11.15 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Mon May 11 15:06:34 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Mon May 11 15:23:06 CDT 2020 with code of 0
+----------------------------------------------------------------
+file has vanished: "/mnt/user/Downloads/Kids/Beware the Batman/Season 01/beware.the.batman.s01e24.bdrip.x264-taxes.mkv.partial~"
+-----------------------------start------------------------------
+Mon May 11 16:00:01 CDT 2020 kile-deb2 rsync backup
+Sync in progress
+------------------------------done------------------------------
+file has vanished: "/mnt/user/Downloads/Kids/Movies/Onward (2020)/Onward (2020) WEBDL-720p.mkv"
+-----------------------------start------------------------------
+Mon May 11 17:00:01 CDT 2020 kile-deb2 rsync backup
+Sync in progress
+------------------------------done------------------------------
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/banner.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/fanart.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/poster.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/tvshow.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E01.More.Than.Meets.The.Eye.1.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E01.More.Than.Meets.The.Eye.1.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E01.More.Than.Meets.The.Eye.1.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E02.More.Than.Meets.The.Eye.2.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E02.More.Than.Meets.The.Eye.2.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E02.More.Than.Meets.The.Eye.2.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E03.More.Than.Meets.The.Eye.3.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E03.More.Than.Meets.The.Eye.3.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E03.More.Than.Meets.The.Eye.3.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E04.Transport.to.Oblivion.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E04.Transport.to.Oblivion.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E04.Transport.to.Oblivion.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E05.Roll.For.It.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E05.Roll.For.It.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E05.Roll.For.It.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E06.Divide.and.Conquer.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E06.Divide.and.Conquer.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E06.Divide.and.Conquer.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E07.S.O.SDinobots.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E07.S.O.SDinobots.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E07.S.O.SDinobots.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E08.The.Ultimate.Doom.1.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E08.The.Ultimate.Doom.1.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E08.The.Ultimate.Doom.1.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E09.The.Ultimate.Doom.2.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E09.The.Ultimate.Doom.2.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E09.The.Ultimate.Doom.2.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E10.The.Ultimate.Doom.3.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E10.The.Ultimate.Doom.3.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E10.The.Ultimate.Doom.3.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E11.War.of.the.Dinobots.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E11.War.of.the.Dinobots.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E11.War.of.the.Dinobots.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E12.Countdown.to.Extinction.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E12.Countdown.to.Extinction.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E12.Countdown.to.Extinction.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E13.Fire.in.the.Sky.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E13.Fire.in.the.Sky.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E13.Fire.in.the.Sky.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E14.Heavy.Metal.War.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E14.Heavy.Metal.War.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E14.Heavy.Metal.War.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E15.Fire.on.the.Mountain.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E15.Fire.on.the.Mountain.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E15.Fire.on.the.Mountain.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E16.A.Plague.of.Insecticons.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E16.A.Plague.of.Insecticons.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 01/Transformers.S01E16.A.Plague.of.Insecticons.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E01.Autobot.Spike.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E01.Autobot.Spike.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E01.Autobot.Spike.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E02.The.Immobilizer.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E02.The.Immobilizer.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E02.The.Immobilizer.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E03.Dinobot.Island.1.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E03.Dinobot.Island.1.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E03.Dinobot.Island.1.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E04.Dinobot.Island.2.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E04.Dinobot.Island.2.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E04.Dinobot.Island.2.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E05.Traitor.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E05.Traitor.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E05.Traitor.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E06.Enter.the.Nightbird.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E06.Enter.the.Nightbird.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E06.Enter.the.Nightbird.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E07.Changing.Gears.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E07.Changing.Gears.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E07.Changing.Gears.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E08.A.Prime.Problem.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E08.A.Prime.Problem.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E08.A.Prime.Problem.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E09.Atlantis.Arise.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E09.Atlantis.Arise.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E09.Atlantis.Arise.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E10.Attack.of.the.Autobots.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E10.Attack.of.the.Autobots.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E10.Attack.of.the.Autobots.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E11.Microbots.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E11.Microbots.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E11.Microbots.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E12.The.Master.Builders.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E12.The.Master.Builders.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E12.The.Master.Builders.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E13.The.Insecticon.Syndrome.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E13.The.Insecticon.Syndrome.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E13.The.Insecticon.Syndrome.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E14.Day.of.the.Machines.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E14.Day.of.the.Machines.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E14.Day.of.the.Machines.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E15.Megatrons.Master.Plan.1.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E15.Megatrons.Master.Plan.1.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E15.Megatrons.Master.Plan.1.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E16.Megatrons.Master.Plan.2.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E16.Megatrons.Master.Plan.2.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E16.Megatrons.Master.Plan.2.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E17.Auto.Berserk.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E17.Auto.Berserk.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E17.Auto.Berserk.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E18.City.of.Steel.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E18.City.of.Steel.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E18.City.of.Steel.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E19.Desertion.of.the.Dinobots.1.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E19.Desertion.of.the.Dinobots.1.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E19.Desertion.of.the.Dinobots.1.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E20.Desertion.of.the.Dinobots.2.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E20.Desertion.of.the.Dinobots.2.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E20.Desertion.of.the.Dinobots.2.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E21.Blaster.Blues.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E21.Blaster.Blues.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E21.Blaster.Blues.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E22.A.Decepticon.Raider.in.King.Arthurs.Court.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E22.A.Decepticon.Raider.in.King.Arthurs.Court.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E22.A.Decepticon.Raider.in.King.Arthurs.Court.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E23.The.God.Gambit.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E23.The.God.Gambit.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E23.The.God.Gambit.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E24.The.Core.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E24.The.Core.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E24.The.Core.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E25.Make.Tracks.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E25.Make.Tracks.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E25.Make.Tracks.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E26.The.Autobot.Run.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E26.The.Autobot.Run.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E26.The.Autobot.Run.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E27.The.Golden.Lagoon.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E27.The.Golden.Lagoon.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E27.The.Golden.Lagoon.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E28.Quest.for.Survival.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E28.Quest.for.Survival.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E28.Quest.for.Survival.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E29.The.Secret.of.Omega.Supreme.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E29.The.Secret.of.Omega.Supreme.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E29.The.Secret.of.Omega.Supreme.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E30.Childs.Play.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E30.Childs.Play.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E30.Childs.Play.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E31.The.Gambler.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E31.The.Gambler.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E31.The.Gambler.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E32.The.Search.for.Alpha.Trion.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E32.The.Search.for.Alpha.Trion.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E32.The.Search.for.Alpha.Trion.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E33.Auto-Bop.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E33.Auto-Bop.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E33.Auto-Bop.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E34.Prime.Target.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E34.Prime.Target.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E34.Prime.Target.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E35.The.Girl.Who.Loved.Powerglide.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E35.The.Girl.Who.Loved.Powerglide.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E35.The.Girl.Who.Loved.Powerglide.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E36.Triple.Takeover.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E36.Triple.Takeover.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E36.Triple.Takeover.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E37.Sea.Change.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E37.Sea.Change.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E37.Sea.Change.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E38.Hoist.Goes.Hollywood.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E38.Hoist.Goes.Hollywood.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E38.Hoist.Goes.Hollywood.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E39.The.Key.to.Vector.Sigma.1.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E39.The.Key.to.Vector.Sigma.1.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E39.The.Key.to.Vector.Sigma.1.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E40.The.Key.to.Vector.Sigma.2.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E40.The.Key.to.Vector.Sigma.2.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E40.The.Key.to.Vector.Sigma.2.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E41.Masquerade.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E41.Masquerade.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E41.Masquerade.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E42.Trans-Europe.Express.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E42.Trans-Europe.Express.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E42.Trans-Europe.Express.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E43.War.Dawn.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E43.War.Dawn.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E43.War.Dawn.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E44.Cosmic.Rust.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E44.Cosmic.Rust.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E44.Cosmic.Rust.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E45.Kremzeek.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E45.Kremzeek.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E45.Kremzeek.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E46.Starscreams.Brigade.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E46.Starscreams.Brigade.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E46.Starscreams.Brigade.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E47.Revenge.of.Bruticus.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E47.Revenge.of.Bruticus.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E47.Revenge.of.Bruticus.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E48.Aerial.Assault.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E48.Aerial.Assault.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E48.Aerial.Assault.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E49.B.O.Th264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E49.B.O.Th264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 02/Transformers.S02E49.B.O.Th264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E01.The.Five.Faces.of.Darkness.Part.1.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E01.The.Five.Faces.of.Darkness.Part.1.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E01.The.Five.Faces.of.Darkness.Part.1.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E02.The.Five.Faces.of.Darkness.Part.2.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E02.The.Five.Faces.of.Darkness.Part.2.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E02.The.Five.Faces.of.Darkness.Part.2.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E03.The.Five.Faces.of.Darkness.Part.3.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E03.The.Five.Faces.of.Darkness.Part.3.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E03.The.Five.Faces.of.Darkness.Part.3.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E04.The.Five.Faces.of.Darkness.Part.4.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E04.The.Five.Faces.of.Darkness.Part.4.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E04.The.Five.Faces.of.Darkness.Part.4.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E05.The.Five.Faces.of.Darkness.Part.5.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E05.The.Five.Faces.of.Darkness.Part.5.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E05.The.Five.Faces.of.Darkness.Part.5.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E06.The.Killing.Jar.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E06.The.Killing.Jar.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E06.The.Killing.Jar.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E07.Chaos.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E07.Chaos.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E07.Chaos.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E08.Dark.Awakening.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E08.Dark.Awakening.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E08.Dark.Awakening.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E09.Starscreams.Ghost.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E09.Starscreams.Ghost.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E09.Starscreams.Ghost.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E10.Thief.in.the.Night.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E10.Thief.in.the.Night.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E10.Thief.in.the.Night.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E11.Forever.Is.a.Long.Time.Coming.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E11.Forever.Is.a.Long.Time.Coming.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E11.Forever.Is.a.Long.Time.Coming.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E12.Surprise.Party.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E12.Surprise.Party.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E12.Surprise.Party.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E13.Madmans.Paradise.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E13.Madmans.Paradise.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E13.Madmans.Paradise.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E14.Carnage.in.C-Minor.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E14.Carnage.in.C-Minor.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E14.Carnage.in.C-Minor.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E15.Fight.or.Flee.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E15.Fight.or.Flee.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E15.Fight.or.Flee.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E16.Webworld.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E16.Webworld.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E16.Webworld.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E17.Ghost.in.the.Machine.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E17.Ghost.in.the.Machine.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E17.Ghost.in.the.Machine.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E18.The.Dweller.in.the.Depths.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E18.The.Dweller.in.the.Depths.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E18.The.Dweller.in.the.Depths.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E19.Nightmare.Planet.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E19.Nightmare.Planet.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E19.Nightmare.Planet.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E20.The.Ultimate.Weapon.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E20.The.Ultimate.Weapon.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E20.The.Ultimate.Weapon.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E21.The.Quintesson.Journal.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E21.The.Quintesson.Journal.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E21.The.Quintesson.Journal.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E22.The.Big.Broadcast.of.2006.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E22.The.Big.Broadcast.of.2006.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E22.The.Big.Broadcast.of.2006.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E23.Only.Human.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E23.Only.Human.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E23.Only.Human.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E24.Grimlocks.New.Brain.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E24.Grimlocks.New.Brain.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E24.Grimlocks.New.Brain.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E25.Money.is.Everything.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E25.Money.is.Everything.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E25.Money.is.Everything.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E26.Call.of.the.Primitives.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E26.Call.of.the.Primitives.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E26.Call.of.the.Primitives.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E27.The.Burden.Hardest.to.Bear.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E27.The.Burden.Hardest.to.Bear.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E27.The.Burden.Hardest.to.Bear.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E28.The.Face.of.Nijika.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E28.The.Face.of.Nijika.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E28.The.Face.of.Nijika.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E29.The.Return.of.Optimus.Prime.Part.1.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E29.The.Return.of.Optimus.Prime.Part.1.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E29.The.Return.of.Optimus.Prime.Part.1.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E30.The.Return.of.Optimus.Prime.Part.2.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E30.The.Return.of.Optimus.Prime.Part.2.h264.DVDRip-BUYMORE.mkv"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 03/Transformers.S03E30.The.Return.of.Optimus.Prime.Part.2.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 04/Transformers-4x01-The.Rebirth.1.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 04/Transformers-4x01-The.Rebirth.1.h264.DVDRip-BUYMORE.mp4"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 04/Transformers-4x01-The.Rebirth.1.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 04/Transformers-4x02-The.Rebirth.2.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 04/Transformers-4x02-The.Rebirth.2.h264.DVDRip-BUYMORE.mp4"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 04/Transformers-4x02-The.Rebirth.2.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 04/Transformers-4x03-The.Rebirth.3.h264.DVDRip-BUYMORE-thumb.jpg"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 04/Transformers-4x03-The.Rebirth.3.h264.DVDRip-BUYMORE.mp4"
+file has vanished: "/mnt/user/Downloads/Kids/The Transformers/Season 04/Transformers-4x03-The.Rebirth.3.h264.DVDRip-BUYMORE.nfo"
+file has vanished: "/mnt/user/Downloads/YouTube/logs/vocal.tmp.log"
+rsync warning: some files vanished before they could be transferred (code 24) at main.c(1189) [sender=3.1.3]
+Rsync completed on Downloads at Mon May 11 17:35:57 CDT 2020 with code of 24
+----------------------------------------------------------------
+Rsync completed on Emulation at Mon May 11 17:36:26 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Mon May 11 17:45:50 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Mon May 11 17:45:56 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Mon May 11 17:45:58 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Mon May 11 17:46:07 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Mon May 11 17:46:08 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Mon May 11 18:00:01 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-11.18
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Mon May 11 18:19:02 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-11.15': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-11.18 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Mon May 11 18:20:34 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Mon May 11 18:20:35 CDT 2020 with code of 0
+----------------------------------------------------------------
+-----------------------------start------------------------------
+Mon May 11 19:00:01 CDT 2020 kile-deb2 rsync backup
+Sync in progress
+------------------------------done------------------------------
+Rsync completed on Downloads at Mon May 11 19:26:33 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Mon May 11 19:26:49 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Mon May 11 19:36:43 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Mon May 11 19:36:50 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Mon May 11 19:36:50 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Mon May 11 19:36:53 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Mon May 11 19:36:54 CDT 2020 with code of 0
+------------------------------done------------------------------
+-----------------------------start------------------------------
+Mon May 11 23:00:02 CDT 2020 kile-deb2 rsync backup
+-----Creating incremental backup of /mnt/user/
+to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/2020-05-11.23
+-----excluding the following folders:
+appdata domains Archive Backups Cache Downloads Emulation Movies Plex Projects system Temporary Transfer Uploads YouTube
+----------------------------------------------------------------
+Rsync completed at Mon May 11 23:05:00 CDT 2020 with code of 0
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/2020-05-11.18': No such file or directory
+du: cannot access '/mnt/disk*/Backups/KILE-NAS1/current': No such file or directory
+numfmt: invalid number: ‘’
+Snapshot 2020-05-11.23 has total size of:
+
+bash: line 0: [: missing `]'
+----------------------------------------------------------------
+-----Synchronizing the following folders
+Archive Backups Downloads Emulation Plex Projects Transfer Uploads YouTube
+-----from /mnt/user/ to root@192.168.2.202:/mnt/user/backups/KILE-NAS1/sync
+----------------------------------------------------------------
+Rsync completed on Archive at Mon May 11 23:06:46 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Backups at Mon May 11 23:06:46 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Downloads at Mon May 11 23:06:54 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Emulation at Mon May 11 23:07:09 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Plex at Mon May 11 23:16:18 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Projects at Mon May 11 23:16:24 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Transfer at Mon May 11 23:16:24 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on Uploads at Mon May 11 23:16:26 CDT 2020 with code of 0
+----------------------------------------------------------------
+Rsync completed on YouTube at Mon May 11 23:16:27 CDT 2020 with code of 0
+------------------------------done------------------------------
