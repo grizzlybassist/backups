@@ -117,20 +117,21 @@ rsync_incremental()
     if (ssh $remote "[ -d $remdir/$2/current ]") && [ -f $prevconfig ]
 	then
 #		ssh $host "rsync $ropts $ropts2 $ropts3 $1 $bremote/$2/$hour"
-        ssh $host "rsync $ropts $ropts2 $ropts3 $1 $bremote/$2/temp"
+		ssh $host "rsync $ropts $ropts2 $ropts3 $1 $bremote/$2/temp"
 		rcode=$?
 		if [ $rcode -eq 0 ] || [ $rcode -eq 24 ]
 		then
-            ssh $remote "mv $remdir/$2/current $remdir/$2/$prebackup"
-            ssh $remote "mv $remdir/$2/temp $remdir/$2/current"
+			if (ssh $remote "[ -d $remdir/$2/$prebackup ]"); then ssh $remote "rm -rf $remdir/$2/$prebacku"; fi
+			ssh $remote "mv $remdir/$2/current $remdir/$2/$prebackup"
+			ssh $remote "mv $remdir/$2/temp $remdir/$2/current"
 			echo "Rsync completed at $(date) with code of $rcode"
-            if [ -f $prevconfig ]; then rm $prevconfig; fi
-            echo $hour > $prevconfig
+			if [ -f $prevconfig ]; then rm $prevconfig; fi
+			echo $hour > $prevconfig
 		else
 			echo "Rsync failed with code # $rcode at $(date)"
 			echo "REVERTING CHANGES"
 #			ssh $remote rm -R $remdir/$2/$hour
-            ssh $remote rm -R $remdir/$2/temp
+			ssh $remote rm -R $remdir/$2/temp
 			rm /tmp/rsync.pause
 
 			echo "------------------------------done------------------------------"
