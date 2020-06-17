@@ -114,7 +114,7 @@ rsync_incremental()
 	echo "----------------------------------------------------------------"
 	
 #	if (ssh $remote "[ -d $remdir/$2/$prebackup ]") && [ -f $prevconfig ]
-    if (ssh $remote "[ -d $remdir/$2/current ]") && [ -f $prevconfig ]
+	if (ssh $remote "[ -d $remdir/$2/current ]") && [ -f $prevconfig ]
 	then
 #		ssh $host "rsync $ropts $ropts2 $ropts3 $1 $bremote/$2/$hour"
 		ssh $host "rsync $ropts $ropts2 $ropts3 $1 $bremote/$2/temp"
@@ -142,14 +142,14 @@ rsync_incremental()
     elif [ ! -f $prevconfig ]
     then
         ssh $remote "mkdir -p $remdir/$2"
-#		ssh $host "rsync $ropts $ropts2 $1 $bremote/$2/$hour"
+#	ssh $host "rsync $ropts $ropts2 $1 $bremote/$2/$hour"
         ssh $host "rsync $ropts $ropts2 $1 $bremote/$2/current"
-		rcode=$?
-		if [ $rcode -eq 0 ] || [ $rcode -eq 24 ]
-		then
-			echo "Rsync completed at $(date) with code of $rcode"
-            if [ -f $prevconfig ]; then rm $prevconfig; fi
-            echo $hour > $prevconfig
+	rcode=$?
+	if [ $rcode -eq 0 ] || [ $rcode -eq 24 ]
+	then
+		echo "Rsync completed at $(date) with code of $rcode"
+		if [ -f $prevconfig ]; then rm $prevconfig; fi
+			echo $hour > $prevconfig
 		else
 			echo "Rsync failed with code # $rcode at $(date)"
 			echo "REVERTING CHANGES"
@@ -169,17 +169,17 @@ rsync_incremental()
 		exit $rcode
 	fi
 
-	#rsnaptotal=$(ssh root@192.168.2.202 "du -cs /mnt/disk*/Backups/KILE-NAS1/$prebackup /mnt/disk*/Backups/KILE-NAS1/$hour" | awk -v hour="$hour" '$0 ~ current {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
-    rsnaptotal=$(ssh root@192.168.2.202 "du -cs /mnt/disk*/Backups/$2/$prebackup /mnt/disk*/Backups/$2/current" | awk -v hour="current" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
+	#rsnaptotal=$(ssh root@192.168.2.202 "du -cs /mnt/disk*/backups/KILE-NAS1/$prebackup /mnt/disk*/Backups/KILE-NAS1/$hour" | awk -v hour="$hour" '$0 ~ current {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
+	rsnaptotal=$(ssh $remote "du -cs /mnt/disk*/backups/$2/$prebackup /mnt/disk*/Backups/$2/current" | awk -v hour="current" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
 	echo "Snapshot $hour has total size of:"
 	echo "$rsnaptotal"
 	
 #	if [ -f $ydayconfig ]
-    if (ssh $remote "[ -d $remdir/$2/$yday.$chour]")
+	if (ssh $remote "[ -d $remdir/$2/$yday.$chour]")
 	then
 #		ydaybackup=`cat $ydayconfig`
-		#dailytotal=$(ssh root@192.168.2.202 "du -cs /mnt/disk*/Backups/KILE-NAS1/$ydaybackup /mnt/disk*/KILE-NAS1/$hour" | awk -v hour="$hour" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
-        dailytotal=$(ssh root@192.168.2.202 "du -cs /mnt/disk*/Backups/$2/$yday.$chour /mnt/disk*/Backups/$2/current" | awk -v hour="current" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
+		#dailytotal=$(ssh root@192.168.2.202 "du -cs /mnt/disk*/backups/KILE-NAS1/$ydaybackup /mnt/disk*/KILE-NAS1/$hour" | awk -v hour="$hour" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
+		dailytotal=$(ssh $remote "du -cs /mnt/disk*/backups/$2/$yday.$chour /mnt/disk*/Backups/$2/current" | awk -v hour="current" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
 		echo "Total storage of $now is:"
 		echo "$dailytotal"
 	fi
