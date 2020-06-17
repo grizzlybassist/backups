@@ -121,7 +121,7 @@ rsync_incremental()
 		rcode=$?
 		if [ $rcode -eq 0 ] || [ $rcode -eq 24 ]
 		then
-			if (ssh $remote "[ -d $remdir/$2/$prebackup ]"); then ssh $remote "rm -rf $remdir/$2/$prebacku"; fi
+			if (ssh $remote "[ -d $remdir/$2/$prebackup ]"); then ssh $remote "rm -rf $remdir/$2/$prebackup"; fi
 			ssh $remote "mv $remdir/$2/current $remdir/$2/$prebackup"
 			ssh $remote "mv $remdir/$2/temp $remdir/$2/current"
 			echo "Rsync completed at $(date) with code of $rcode"
