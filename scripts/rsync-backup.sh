@@ -169,8 +169,8 @@ rsync_incremental()
 		exit $rcode
 	fi
 
-	#rsnaptotal=$(ssh root@192.168.2.202 "du -cs /mnt/disk*/backups/KILE-NAS1/$prebackup /mnt/disk*/Backups/KILE-NAS1/$hour" | awk -v hour="$hour" '$0 ~ current {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
-	rsnaptotal=$(ssh $remote "du -cs /mnt/disk*/backups/$2/$prebackup /mnt/disk*/Backups/$2/current" | awk -v hour="current" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
+	#rsnaptotal=$(ssh root@192.168.2.202 "du -cs /mnt/disk*/backups/KILE-NAS1/$prebackup /mnt/disk*/backups/KILE-NAS1/$hour" | awk -v hour="$hour" '$0 ~ current {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
+	rsnaptotal=$(ssh $remote "du -cs /mnt/disk*/backups/$2/$prebackup /mnt/disk*/backups/$2/current" | awk -v hour="current" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
 	echo "Snapshot $hour has total size of:"
 	echo "$rsnaptotal"
 	
@@ -179,7 +179,7 @@ rsync_incremental()
 	then
 #		ydaybackup=`cat $ydayconfig`
 		#dailytotal=$(ssh root@192.168.2.202 "du -cs /mnt/disk*/backups/KILE-NAS1/$ydaybackup /mnt/disk*/KILE-NAS1/$hour" | awk -v hour="$hour" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
-		dailytotal=$(ssh $remote "du -cs /mnt/disk*/backups/$2/$yday.$chour /mnt/disk*/Backups/$2/current" | awk -v hour="current" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
+		dailytotal=$(ssh $remote "du -cs /mnt/disk*/backups/$2/$yday.$chour /mnt/disk*/backups/$2/current" | awk -v hour="current" '$0 ~ hour {sum += $1} END {print sum}' | numfmt --to=iec-i --from-unit=1024 --suffix=B --padding=4)
 		echo "Total storage of $now is:"
 		echo "$dailytotal"
 	fi
