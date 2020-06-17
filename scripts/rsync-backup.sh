@@ -24,7 +24,7 @@ RMmonth=$(date +"%Y-%m" -d "-4 months")
 RMymonth=$(date +"%Y-%m" -d "last year")
 year=$(date +"%Y")
 RMyear=$(date +"%Y" -d "last year")
-logs="$unraid/Cronjobs/logs/backups"
+logs="$unraid/logs/rsync-backups"
 mkdir -p $logs
 
 exec 1>> $logs/rsync-$now.log
@@ -33,7 +33,7 @@ exec 2>> $logs/rsync-$now.log
 config="$working/config/$localname-rsync.cfg"
 exclud="config/$localname-rsync.excl"
 includ="config/$localname-rsync.incl"
-prevconfig="$working/config/previous.backup"
+prevconfig="$logs/previous.backup"
 tdayconfig="$working/rsync/$now.backup"
 ydayconfig="$working/rsync/$yday.backup"
 RMdayconfig="$working/rsync/$RMday.backup"
